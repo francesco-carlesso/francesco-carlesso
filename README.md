@@ -27,7 +27,7 @@ I'm a **Data Science graduate** with a strong foundation in AI, statistics, and 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d50000.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-orange?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-orange?style=for-the-badge)
 
 ---
 
