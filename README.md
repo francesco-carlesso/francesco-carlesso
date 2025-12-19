@@ -16,7 +16,7 @@ I'm a **Data Science graduate** with a strong foundation in AI, statistics, and 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-%2300BFFF?style=for-the-badge&logo=lightgbm&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-%2300BFFF?style=for-the-badge&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-%230288D1?style=for-the-badge&logo=ray&logoColor=white)
 ![Gym](https://img.shields.io/badge/Gym-%23003545?style=for-the-badge&logo=openai&logoColor=white)
 
