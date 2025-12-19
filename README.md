@@ -2,8 +2,6 @@
 
 I'm a **Data Science graduate** with a strong foundation in AI, statistics, and analytics. I love building ML solutions and applying data-driven insights to real-world problems!
 
----
-
 ## 🛠 Skills and Tools
 
 ### **Languages**
@@ -28,8 +26,6 @@ I'm a **Data Science graduate** with a strong foundation in AI, statistics, and 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d50000.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-orange?style=for-the-badge)
-
----
 
 ## 💼 More about me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-carlesso)  
