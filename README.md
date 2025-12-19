@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 👋
 
-I'm a **Data Science graduate** with a strong foundation in AI, statistics, and analytics. I love building and applying ML solutions to a wide variety of domains!
+I have a **Master's degree in Data Science** and a strong foundation in AI, statistics, and analytics. I enjoy building and applying **Machine Learning** solutions to a wide range of domains!
 
 ## 🛠 Skills and Tools
 
