@@ -19,7 +19,7 @@ I have a **Master's degree in Data Science** and a strong foundation in AI, stat
 ![LightGBM](https://img.shields.io/badge/LightGBM-%2300BFFF?style=for-the-badge&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-%230288D1?style=for-the-badge&logo=ray&logoColor=white)
-![Gym](https://img.shields.io/badge/Gym-%23003545?style=for-the-badge&logo=openai&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-%23003545?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Editors & Platforms**
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
