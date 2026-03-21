@@ -22,7 +22,7 @@ I have a **Master's degree in Data Science** and a strong foundation in AI, stat
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-%23003545?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white)
 
-### **Editors & Platforms**
+### **Operations**
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-00A0C6?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
