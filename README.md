@@ -2,7 +2,7 @@
 
 I have a **Master's degree in Data Science** and a strong foundation in AI, statistics, and analytics. I enjoy building and applying **Machine Learning** solutions to a wide range of domains!
 
-## 🛠 Skills and Tools
+## 🛠 Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,7 +11,7 @@ I have a **Master's degree in Data Science** and a strong foundation in AI, stat
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### **Libraries & Frameworks**
+### **Development**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
