@@ -2,7 +2,7 @@
 
 I have a **Master's degree in Data Science** and a strong foundation in AI, statistics, and analytics. I enjoy building and applying **Machine Learning** solutions to a wide range of domains!
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
